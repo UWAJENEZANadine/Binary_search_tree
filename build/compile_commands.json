@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/CMU_Spring sem 2024/DSA/Assignment3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\TextAnalysisAppBST.dir\\src\\nuwajene\\TextAnalysisAppBST.cpp.obj -c \"E:\\CMU_Spring sem 2024\\DSA\\Assignment3\\src\\nuwajene\\TextAnalysisAppBST.cpp\"",
+  "file": "E:\\CMU_Spring sem 2024\\DSA\\Assignment3\\src\\nuwajene\\TextAnalysisAppBST.cpp",
+  "output": "CMakeFiles\\TextAnalysisAppBST.dir\\src\\nuwajene\\TextAnalysisAppBST.cpp.obj"
+},
+{
+  "directory": "E:/CMU_Spring sem 2024/DSA/Assignment3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\TextAnalysisAppBST.dir\\src\\nuwajene\\TextAnalysisImpementationlBST.cpp.obj -c \"E:\\CMU_Spring sem 2024\\DSA\\Assignment3\\src\\nuwajene\\TextAnalysisImpementationlBST.cpp\"",
+  "file": "E:\\CMU_Spring sem 2024\\DSA\\Assignment3\\src\\nuwajene\\TextAnalysisImpementationlBST.cpp",
+  "output": "CMakeFiles\\TextAnalysisAppBST.dir\\src\\nuwajene\\TextAnalysisImpementationlBST.cpp.obj"
+}
+]

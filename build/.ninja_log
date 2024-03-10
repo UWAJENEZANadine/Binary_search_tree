@@ -1,0 +1,6 @@
+# ninja log v5
+28	44	0	clean	9c4b4372737ab8da
+27	645	7316339103471697	CMakeFiles/TextAnalysisAppBST.dir/src/nuwajene/TextAnalysisImpementationlBST.cpp.obj	3979aa72e4f9fb4c
+466	593	7316357996634907	E:/CMU_Spring sem 2024/DSA/Assignment3/bin/TextAnalysisAppBST.exe	a30cbd75fafe8f6b
+28	466	7316357995424830	CMakeFiles/TextAnalysisAppBST.dir/src/nuwajene/TextAnalysisAppBST.cpp.obj	fc1f36ad8a74aa15
+1	217	7312660562759011	CMakeFiles/assignment.dir/src/nuwajene/main.cpp.obj	d61b811335639dd4
